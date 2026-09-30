@@ -1,19 +1,8 @@
 # 💻 Python Programming Assignment
 
-<p align="center">
-  <img src="https://herokuapp.com">
-</p>
+## 📝 Advanced Programming with Python
+### *Data Structures | Concurrency | GUI | Complete Academic Repository*
 
-<p align="center">
-  <b>📘 Advanced Programming with Python</b><br>
-  <i>Complete Practical Implementation Repository</i>
-</p>
-
-<p align="center">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</p>
 
 ---
 
