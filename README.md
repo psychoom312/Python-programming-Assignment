@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://shields.io">
   <img src="https://shields.io">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+  <img src="https://shields.io">
 </p>
 
 ---
@@ -52,7 +52,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Grouped Sorting • Dynamic Multi-Key Tie Breaking  
 
 <p align="center">
-  <img src="outputs/op1.png" width="650" alt="Campus Merit Analyzer Output">
+  <img src="ASS-1/op1.png" width="650" alt="Campus Merit Analyzer Output">
 </p>
 
 ---
@@ -61,7 +61,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Trie Structures • Aho-Corasick Substring Automaton  
 
 <p align="center">
-  <img src="outputs/op2.png" width="650" alt="Password Auditor Output">
+  <img src="ASS-1/op2.png" width="650" alt="Password Auditor Output">
 </p>
 
 ---
@@ -70,7 +70,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Parsing Stacks • Cycle Detection • Result Memoization  
 
 <p align="center">
-  <img src="outputs/op3.png" width="650" alt="Recursive Expression Engine Output">
+  <img src="ASS-1/op3.png" width="650" alt="Recursive Expression Engine Output">
 </p>
 
 ---
@@ -79,7 +79,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 File I/O Streaming • Runtime Token Data Validation  
 
 <p align="center">
-  <img src="outputs/op4.png" width="650" alt="Exception-Safe CSV Splitter Output">
+  <img src="ASS-1/op4.png" width="650" alt="Exception-Safe CSV Splitter Output">
 </p>
 
 ---
@@ -88,7 +88,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Encapsulation Modifiers • Batch Checkpoints • Transaction Rollbacks  
 
 <p align="center">
-  <img src="outputs/op5.png" width="650" alt="Bank Settlement System Output">
+  <img src="ASS-1/op5.png" width="650" alt="Bank Settlement System Output">
 </p>
 
 ---
@@ -97,7 +97,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Kahn's Topological Sorting • Min-Heap Scheduling • DFS Path Extraction  
 
 <p align="center">
-  <img src="outputs/op6.png" width="650" alt="Module Dependency Resolver Output">
+  <img src="ASS-1/op6.png" width="650" alt="Module Dependency Resolver Output">
 </p>
 
 ---
@@ -106,7 +106,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Token Parsing • Custom Application Exception Trees  
 
 <p align="center">
-  <img src="outputs/op7.png" width="650" alt="Interactive Formula Validator Output">
+  <img src="ASS-1/op7.png" width="650" alt="Interactive Formula Validator Output">
 </p>
 
 ---
@@ -115,7 +115,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Inverted Positional Mapping • Binary Pickling • Deflated Zip Archives  
 
 <p align="center">
-  <img src="outputs/op8.png" width="650" alt="Compressed Log Indexer Output">
+  <img src="ASS-1/op8.png" width="650" alt="Compressed Log Indexer Output">
 </p>
 
 ---
@@ -124,7 +124,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Event-Driven Timeline Loops • Priority Allocation Balanced Heaps  
 
 <p align="center">
-  <img src="outputs/op9.png" width="650" alt="Threaded Job Scheduler Simulation Output">
+  <img src="ASS-1/op9.png" width="650" alt="Threaded Job Scheduler Simulation Output">
 </p>
 
 ---
@@ -133,7 +133,7 @@ This repository contains a suite of **production-grade Python implementations** 
 📌 Virtual Treeview Grid Rendering • Live Index Search Filters • JSON Storage  
 
 <p align="center">
-  <img src="outputs/op10.png" width="650" alt="Tkinter Assignment Tracker Output">
+  <img src="ASS-1/op10.png" width="650" alt="Tkinter Assignment Tracker Output">
 </p>
 
 ---
@@ -142,19 +142,17 @@ This repository contains a suite of **production-grade Python implementations** 
 ```text
 Python-Programming-Assignment/
 │
-├── src/
-│   ├── campus_merit_analyzer.py
-│   ├── password_auditor.py
-│   ├── recursive_evaluator.py
-│   ├── csv_transaction_splitter.py
-│   ├── bank_settlement_system.py
-│   ├── module_dependency_resolver.py
-│   ├── interactive_calculator.py
-│   ├── log_indexer.py
-│   ├── threaded_job_scheduler.py
-│   └── assignment_tracker_gui.py
-│
-├── outputs/
+├── ASS-1/
+│   ├── p1.py
+│   ├── p2.py
+│   ├── p3.py
+│   ├── p4.py
+│   ├── p5.py
+│   ├── p6.py
+│   ├── p7.py
+│   ├── p8.py
+│   ├── p9.py
+│   ├── p10.py
 │   ├── op1.png
 │   ├── op2.png
 │   ├── op3.png
